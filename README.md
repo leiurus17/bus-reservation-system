@@ -1,2 +1,2 @@
 # bus-reservation-system
-A practice project written in JSP. Backend is MariaDB.
+A practice project written in JSP and Pure CSS. Backend is MariaDB.
